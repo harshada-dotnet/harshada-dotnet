@@ -1,7 +1,7 @@
 # Hi 👋 I'm Harshada Patil
 
 ## 💻 About Me
-Full Stack Developer with 2+ years experience in building web applications using Angular and ASP.NET Core.
+Full Stack Developer with 2+ years of experience in building scalable web applications using Angular and ASP.NET Core. Experienced in REST API development, JWT authentication, and database optimization.
 
 ## 🚀 Skills
 - Frontend: Angular, TypeScript, HTML, CSS, Bootstrap
