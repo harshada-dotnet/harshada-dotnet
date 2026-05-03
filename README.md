@@ -1,220 +1,185 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0f1e&height=280&section=header&text=Harshada%20Patil&fontSize=72&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20ASP.NET%20Core%20%7C%20Angular%20%7C%20SQL%20Server&descAlignY=60&descSize=18&fontColor=63b3ed" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=280&section=header&text=Harshada%20Patil&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20ASP.NET%20Core%20%7C%20Angular%20%7C%20SQL%20Server&descAlignY=62&descSize=18&fontColor=ffffff" alt="Header" width="100%"/>
 
 <a href="https://github.com/harshada-dotnet">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&color=63B3ED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+2%2B+Years+Experience;ASP.NET+Core+%2B+Angular+Specialist;Building+Scalable+Enterprise+Applications;REST+APIs+%7C+JWT+%7C+SQL+Server+%7C+Azure+DevOps;Status%3A+Open+to+Work+%F0%9F%9F%A2" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+2%2B+Years+Experience;ASP.NET+Core+%2B+Angular+%2B+SQL+Server;Building+Scalable+Enterprise+Applications;JWT+%7C+REST+APIs+%7C+Azure+DevOps+%7C+RBAC;%F0%9F%9F%A2+Open+to+Work" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/harshada-dotnet">
-  <img src="https://komarev.com/ghpvc/?username=harshada-dotnet&color=63b3ed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
 <a href="mailto:harshadasp09@gmail.com">
-  <img src="https://img.shields.io/badge/Email-harshadasp09@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-harshadasp09@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Location-Pune%2C%20India-0a0f1e?style=flat-square&logo=google-maps&logoColor=63b3ed"/>
+&nbsp;
+<a href="https://github.com/harshada-dotnet">
+  <img src="https://img.shields.io/badge/GitHub-harshada--dotnet-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Pune%2C%20India-0ea5e9?style=flat-square&logo=googlemaps&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat-square"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
-**.NET Developer** with **2+ years** of experience building scalable web applications using **ASP.NET Core**, **Angular**, and **SQL Server**.
+**Software Developer** at **Western Ocean Software Pvt. Ltd.** | **ASP.NET Core & Angular** | **2+ Years** of Enterprise Experience
 
-- 🏢 **Currently:** Software Developer at **Western Ocean Software Pvt. Ltd.**, Pune
-- 🎓 **Education:** B.Tech in Electronics & Telecommunication — SVERI's College of Engineering, Pandharpur (CGPA: 8.63)
-- 🔧 **Speciality:** Designing REST APIs, implementing JWT authentication, and developing full-stack enterprise applications
-- 🏗️ **Architecture:** Experienced in layered architecture, CI/CD pipelines, and modern development practices
-- 📬 **Contact:** harshadasp09@gmail.com | 9503591731
-- 🟢 **Open to:** Full-time roles, contract work, and collaborations
+I build clean, production-grade web applications — from database design to Angular UI to cloud deployment. My focus is writing maintainable code backed by solid architecture and security principles.
+
+- 🔧 **API Developer:** Designing and building RESTful APIs with ASP.NET Core consumed by Angular frontends.
+- 🗃️ **Database Focused:** SQL Server stored procedures, query optimization, and indexing for fast, reliable data access.
+- 🔐 **Security Minded:** JWT authentication and RBAC implemented from day one, not as an afterthought.
+- 🚀 **Delivery Oriented:** End-to-end delivery via Azure DevOps CI/CD pipelines and Docker.
+
+> *"Writing clean APIs and full-stack enterprise applications — from schema design to production deployment."*
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,typescript,javascript,html,css"/></a>
 
 **Backend**
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-512BD4?style=flat-square)
-![Middleware](https://img.shields.io/badge/Middleware-512BD4?style=flat-square)
+<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,visualstudio"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 
 **Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,typescript,html,css"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 
 **Database**
+<br/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**DevOps & Tools**
+<br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode,postman"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 
-**Tools & DevOps**
+**Architecture & Security**
+<br/>
+<img src="https://img.shields.io/badge/Layered%20Architecture-38bdf8?style=flat-square"/>
+<img src="https://img.shields.io/badge/SOLID-22c55e?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/RBAC-4A154B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+</div>
 
 ---
 
-## 💼 Professional Experience
+### 💼 Experience
 
-### 🏢 Software Developer — Western Ocean Software Pvt. Ltd.
+#### 🏢 Software Developer — Western Ocean Software Pvt. Ltd.
 > **Jan 2024 – Present &nbsp;|&nbsp; Pune, India**
-> 
-> **Tech Stack:** ASP.NET Core · Angular · SQL Server · Azure DevOps
+> **Stack:** ASP.NET Core · Angular · SQL Server · Azure DevOps
 
-- Designed and developed **RESTful APIs** using ASP.NET Core Web API consumed by Angular frontend applications
+- Designed and developed **RESTful APIs** using ASP.NET Core Web API consumed by Angular frontends
 - Built **Angular components and services** for enterprise web modules
-- Implemented **JWT authentication** and role-based authorization
+- Implemented **JWT authentication** and role-based authorization (RBAC)
 - Worked with **SQL Server** for stored procedures and query optimization
-- Participated in debugging, testing, and deployment through **Azure DevOps CI/CD** pipelines
+- Deployed and maintained applications through **Azure DevOps CI/CD** pipelines
 - Improved API performance by **optimizing SQL queries** and database indexing
 
 ---
 
-## 📂 Featured Projects
+### 📂 Projects
 
-| Project | Domain | Description | Tech Stack | Status |
-|---------|--------|-------------|-----------|--------|
-| **[🚛 LogiTrack](https://github.com/harshada-dotnet)** | Logistics | Real-time shipment tracking, vehicle allocation & delivery monitoring platform | ASP.NET Core, Angular, SQL Server, RBAC | ✅ Live |
-| **[🏥 MediSync](https://github.com/harshada-dotnet/mediconnect-patient-management)** | Healthcare | Patient care, appointment scheduling & medical record management system | ASP.NET Core, Angular, JWT, SQL Server | ✅ Live |
+| Project | Domain | Description | Stack | Status |
+|---------|--------|-------------|-------|--------|
+| **🚛 [LogiTrack](https://github.com/harshada-dotnet)** | Logistics | Shipment tracking, vehicle allocation & delivery monitoring | ASP.NET Core, Angular, SQL Server, RBAC | ✅ Live |
+| **🏥 [MediSync](https://github.com/harshada-dotnet/mediconnect-patient-management)** | Healthcare | Patient care, appointments & medical records management | ASP.NET Core, Angular, JWT, SQL Server | ✅ Live |
 
-### 🚛 LogiTrack — Logistics Management Platform
+**🚛 LogiTrack — Logistics Management Platform**
 
-A web-based logistics platform for real-time shipment tracking, vehicle allocation, and delivery operations monitoring.
+✅ Angular modules for real-time **shipment tracking dashboards**
+✅ REST APIs for complete **shipment lifecycle management**
+✅ **RBAC authentication** for operations users
+✅ SQL Server **query optimization** for improved API performance
 
-- Developed Angular modules for **shipment tracking dashboards**
-- Built REST APIs for **shipment lifecycle management**
-- Implemented **RBAC authentication** for operations users
-- Optimized SQL Server queries for **better API performance**
-
-### 🏥 MediSync — Healthcare Management System
-
-A centralized healthcare platform for patient care, appointment scheduling, and medical record management across hospitals and clinics.
-
-- Developed Angular modules for **patient registration**, appointment booking, and dashboards
-- Built RESTful APIs for managing **patients, doctors, and appointment workflows**
-- Implemented **JWT-based authentication** with role-based authorization (Admin, Doctor, Patient)
-- Designed SQL Server database with **stored procedures** for patient records
-- Developed features for **medical history and prescription management**
-- Improved API performance through **query optimization and indexing**
+**Tech Stack:** C# · ASP.NET Core Web API · Angular · SQL Server · Bootstrap
 
 ---
 
-## 📊 Daily Performance Tracker
+**🏥 MediSync — Healthcare Management System**
 
-> Track coding activity, learning goals, and daily progress. Updated regularly to stay consistent and accountable.
+✅ Angular modules for **patient registration**, booking & dashboards
+✅ **JWT auth** with Admin / Doctor / Patient roles
+✅ Stored procedures for **patient records** and appointment scheduling
+✅ **Medical history** and prescription management features
 
-### 📅 Weekly Log — [Current Week]
-
-| Day | What I Worked On | Hours | Status |
-|-----|-----------------|-------|--------|
-| Monday | | | ⬜ |
-| Tuesday | | | ⬜ |
-| Wednesday | | | ⬜ |
-| Thursday | | | ⬜ |
-| Friday | | | ⬜ |
-| Saturday | | | ⬜ |
-| Sunday | | | ⬜ |
-
-> ✅ Done &nbsp; 🔄 In Progress &nbsp; ⬜ Planned &nbsp; ❌ Missed
+**Tech Stack:** C# · ASP.NET Core Web API · Angular · TypeScript · SQL Server · JWT · Bootstrap
 
 ---
 
-### 🎯 Monthly Goals — [Month Year]
-
-- [ ] Complete 1 new feature in current project
-- [ ] Write unit tests for existing APIs
-- [ ] Learn / explore a new concept (e.g. Redis, CQRS, Mediator pattern)
-- [ ] Make at least 20 commits this month
-- [ ] Solve 5+ SQL/C# practice problems
-- [ ] Update this README with progress
-
----
-
-### 📈 Consistency Streak
-
-```
-Week 1:  ██████░  6/7 days
-Week 2:  ███████  7/7 days
-Week 3:  ████░░░  4/7 days
-Week 4:  ░░░░░░░  Upcoming
-```
-
-> 💡 **Tip:** Update this section every Sunday to stay on track!
-
----
-
-### 🧠 Currently Learning
-
-- [ ] Redis caching with ASP.NET Core
-- [ ] CQRS + Mediator pattern
-- [ ] Docker containerization (beyond basics)
-- [ ] Unit testing with xUnit + Moq
-- [ ] Angular advanced patterns (signals, lazy loading)
-
----
-
-### 📌 How to Use This Tracker
-
-1. Every week, fill in the **Weekly Log** with what you worked on
-2. At month start, set fresh **Monthly Goals**
-3. Update the **Consistency Streak** bar every Sunday
-4. Move completed learning items to a `✅ Learned` section below
-5. Commit the updated README — each commit = proof of consistency
-
----
-
-## ⚡ GitHub Activity
+### 📊 At a Glance
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshada-dotnet&theme=tokyo-night&hide_border=true&area=true&color=63b3ed&line=3b82f6&point=63b3ed" width="100%" alt="Activity Graph"/>
+
+![Years Experience](https://img.shields.io/badge/Experience-2%2B%20Years-38bdf8?style=for-the-badge&logo=calendar&logoColor=white)
+![Projects](https://img.shields.io/badge/Live%20Projects-2-22c55e?style=for-the-badge&logo=rocket&logoColor=white)
+![Primary Language](https://img.shields.io/badge/Primary%20Language-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Education](https://img.shields.io/badge/B.Tech%20CGPA-8.63-f59e0b?style=for-the-badge&logo=mortarboard&logoColor=white)
+
+![Backend](https://img.shields.io/badge/Backend-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Database](https://img.shields.io/badge/Database-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### ⚡ Development Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshada-dotnet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=63b3ed&icon_color=3b82f6&rank_icon=github" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshada-dotnet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=63b3ed" height="160" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=harshada-dotnet&theme=tokyonight&hide_border=true&background=0a0f1e&ring=63b3ed&currStreakLabel=3b82f6" width="100%" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshada-dotnet&theme=tokyo-night&hide_border=true&area=true&color=38bdf8&line=0ea5e9&point=38bdf8" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
 
-## 🏆 Core Competencies
+### 🎓 Core Competencies
 
 - ✅ REST API Design with ASP.NET Core Web API
-- ✅ Angular SPAs — Components, Services, Routing, Forms
-- ✅ JWT Authentication & Role-Based Authorization
+- ✅ Angular SPAs — Components, Services, Routing, Reactive Forms
+- ✅ JWT Authentication & Role-Based Authorization (RBAC)
 - ✅ SQL Server — Stored Procedures, Query Optimization, Indexing
 - ✅ Entity Framework Core & LINQ
 - ✅ Azure DevOps CI/CD Pipelines
-- ✅ Layered / Clean Architecture
-- ✅ Git Version Control & Code Reviews
+- ✅ Layered Architecture & SOLID Principles
+- ✅ Docker & Git Version Control
+- ✅ Agile / Scrum & Code Reviews
 
 ---
 
-## 🤝 Let's Connect
+### 🤝 Open to Collaborate On
+
+- **Enterprise ASP.NET Core Projects** — scalable, well-architected backends
+- **Angular + .NET Core SPAs** — production-grade security and performance
+- **API Development** — REST APIs, JWT auth, SQL Server optimization
+- **Tech Discussions** — system design, clean code, and best practices
 
 <div align="center">
+
+### 📬 Get In Touch
 
 <a href="https://github.com/harshada-dotnet" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-harshada--dotnet-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -233,8 +198,7 @@ Week 4:  ░░░░░░░  Upcoming
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0f1e&height=100&section=footer"/>
-  <p><strong>Crafted by Harshada Patil © 2026</strong></p>
-  <p>Software Developer · ASP.NET Core · Angular · SQL Server · Pune, India</p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=harshada-dotnet.harshada-dotnet&left_color=0a0f1e&right_color=63b3ed&left_text=Total+Visitors"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=100&section=footer"/>
+<p><strong>Harshada Patil © 2026</strong></p>
+<p>Software Developer &nbsp;·&nbsp; ASP.NET Core &nbsp;·&nbsp; Angular &nbsp;·&nbsp; SQL Server &nbsp;·&nbsp; Pune, India</p>
 </div>
